@@ -12,9 +12,9 @@ body{
 }
 
 header{
+    margin: 0px;
     margin-bottom: 5px;
     padding: 5px ;
-    margin: 0;
     background-color: rgb(5, 1, 119);
 }
 
